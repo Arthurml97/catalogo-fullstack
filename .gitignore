@@ -1,0 +1,24 @@
+Arquivos compilados do Java
+
+*.class
+*.jar
+*.war
+*.ear
+target/
+.mvn/
+
+Arquivos de IDE
+
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+*.iws
+
+Arquivos de Log e Sistema Operacional
+
+logs/
+*.log
+.DS_Store
+Thumbs.db
